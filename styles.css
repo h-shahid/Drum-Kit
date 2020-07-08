@@ -1,0 +1,36 @@
+.keys {
+display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10em;
+    font-size: large;
+    padding: 3em;
+    text-align: center;
+    
+}
+
+kbd {
+    background-color: palevioletred;
+    display: flex;
+    font-size: 3em
+}
+
+
+h1 {
+color: royalblue;
+font-family: monospace;
+text-align: center;
+padding: 1rem .5rem;
+font-size: 6em;
+} 
+
+body {
+    background-color: darkgrey;
+}
+
+.sound {
+    font-size: 1.2rem;
+    text-transform: lowercase; 
+    letter-spacing: .1rem;
+  
+}
